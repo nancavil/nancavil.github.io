@@ -10113,6 +10113,9 @@ h3 {
 .masthead {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
+  background-image: url("/assets/img/pexels-stephan-seeber-1261728.jpg");
+  background-position-y: 60%;
+  background-size: cover;
 }
 .masthead .masthead-heading {
   font-size: 1.35rem;
